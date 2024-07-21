@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP600.png" width="300">
-  <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP300.png" width="300">
+  <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP600.png" width="200">
+  <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/PL300.png" width="200">
 </p>
 
 - PL-300: Power BI Data Analyst
