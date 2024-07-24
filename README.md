@@ -1,5 +1,16 @@
 # Data Engineer
 
+***
+<p align="center">
+<strong>
+Tech Stack
+</strong></p>
+<p align="center">
+Python, SQL, JavaScript, R, Spark / PySpark, Hive, sci-kit learn, pandas, Airflow, Django, Flask, Hadoop, Postgres SQL, MySQL, MongoDB, Microsoft SQL Server, AWS, Azure, Databricks, dbt
+</p>
+
+***
+
 ## Work Experience
 ### Data Engineer @ Adastra _(Apr 2023 - Present)_
 __Client 1: Bank__
