@@ -32,11 +32,10 @@ __Client 2: Manufacturer and distributor company__
 * Designed interactive dashboards with Business Intelligence tools, providing stakeholders with actionable insights for informed decision-making.
 
 ## Certifications 
+![Alt text](https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP-600.png) ![Alt text](https://github.com/Jacoceb/portfolio/blob/main/assets/img/PL-300.png) 
 
-<p align="center">
-  <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP-600.png" width="300">
-  <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/PL-300.png" width="300">
-</p>
+<img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP-600.png" width="300"> <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/PL-300.png" width="300">
+
 
 ## Personal Projects
 
