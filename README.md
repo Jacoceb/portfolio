@@ -7,6 +7,7 @@ __Client 1: Bank__
 *	Ensured 100% data accuracy in reports by enhancing and maintaining employee hierarchy models, aligning them with business rules.
 *	Attend client needs by responding to tickets, delivering new analytical solutions like new reports and stored procedures, and improving existing ones.
 
+__Client 2: Manufacturer and distributor company__
 * Mapping data sources and gathering requirements for implementing a Medallion Architecture on Azure Fabric.
 * Developing pipelines for extracting and loading data from data sources into a centralized data lake.
 * Creating notebooks for applying QA to the data and performing data transformations to enhance data integrity and usability.
