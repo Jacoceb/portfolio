@@ -34,7 +34,7 @@ __Client 2: Manufacturer and distributor company__
 ## Certifications 
 ![Alt text](https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP-600.png) ![Alt text](https://github.com/Jacoceb/portfolio/blob/main/assets/img/PL-300.png) 
 
-<img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/DP-600.png" width="300"> <img src="https://github.com/Jacoceb/portfolio/blob/main/assets/img/PL-300.png" width="300">
+<img src="assets/img/DP-600.png" width="300"> <img src="assets/img/PL-300.png" width="300">
 
 
 ## Personal Projects
