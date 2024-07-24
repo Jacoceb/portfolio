@@ -40,8 +40,8 @@ __Client 2: Manufacturer and distributor company__
 ## Certifications 
 
 <p align="center">
-  <img src="assets/img/DP-600.png" width="250"> 
-  <img src="assets/img/PL-300.png" width="250">
+  <img src="assets/img/DP-600.png" width="200"> 
+  <img src="assets/img/PL-300.png" width="200">
 </p>
 
 ## Personal Projects
