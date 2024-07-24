@@ -51,7 +51,7 @@ __Client 2: Manufacturer and distributor company__
   <img src="assets/img/Humity.png" width="500"> 
 </p>
 
-This satellite image analysis project was developed in collaboration with a professor from Chile to address the need to access satellite imagery data across different years. Utilizing images from the Sentinel-2 satellite and leveraging the SentinelHub API, the project focused on extracting and transforming images for detailed terrain type analysis on a global scale. This work formed the basis of my undergraduate thesis, which was honored as the best graduation project of 2023 in my field. Additionally, it was showcased at research meetings in Bogotá, Colombia, and Chile during the same year.
+This satellite image analysis project was developed in collaboration with a professor from Chile to address the need to access satellite imagery data across different years. Utilizing images from the Sentinel-2 satellite and leveraging the SentinelHub API, the project focused on extracting and transforming images for detailed terrain type analysis on a global scale. This work formed the basis of my undergraduate thesis, which was honored as the best graduation project of 2023 in my field. Additionally, it was showcased at research meetings in Bogotá, Colombia, and Chile during 2022.
 
 [Notebook](https://github.com/Jacoceb/asi-thesis/blob/main/An%C3%A1lisis_de_imagenes_satelitales.ipynb)
 
