@@ -5,15 +5,20 @@
 __Client 1: Bank__
 *	Developed and maintained ETL processes in Azure Data Factory, facilitating seamless data integration into Power BI reports and models for banking clients.
 *	Ensured 100% data accuracy in reports by enhancing and maintaining employee hierarchy models, aligning them with business rules.
-*	Attendance client needs by responding to tickets, delivering new analytical solutions, and improving existing ones.
+*	Attend client needs by responding to tickets, delivering new analytical solutions like new reports and stored procedures, and improving existing ones.
 
-__Client 2: Manufacturer and distributor company__
+* Mapping data sources and gathering requirements for implementing a Medallion Architecture on Azure Fabric.
+* Developing pipelines for extracting and loading data from data sources into a centralized data lake.
+* Creating notebooks for applying QA to the data and performing data transformations to enhance data integrity and usability.
 
-
-### Data Engineer @ ProCibernetica _(Oct 2023 - Mar 2024)_
+### Senior Data Engineer @ ProCibernetica _(Oct 2023 - Mar 2024)_
+* Enhanced and optimized data pipeline development for a data warehouse integration, effectively incorporating over 100 diverse data sources.
+* Developed test cases for each data pipeline, ensuring robust data preparation for subsequent machine learning model implementation.
+* Led a data modeling team, crafting targeted data marts that directly address and resolve specific business inquiries.
+* Successfully migrated codebase from Oracle SQL to PySpark and MySQL, improving the efficiency and accuracy of ELT processes and data modeling.
 
 ### Business Intelligence Developer @ Alegra _(Sep 2022 - Apr 2023)_
-* Led the implementation and maintenance of the company’s data stack using AWS.
+* Led the company’s data stack implementation and maintenance using AWS.
 * Developed ETL processes using AWS Redshift, S3, EMR, DMS, and Lambda to streamline data processing.
 *	Monitored data integrity processes, enhancing data availability and reliability for batch operations.
 *	Created and maintained interactive dashboards on BI platforms for strategic decision-making.
